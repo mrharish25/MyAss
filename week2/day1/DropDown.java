@@ -49,7 +49,7 @@ public class DropDown {
 		
 		driver.findElement(By.className("smallSubmit")).click();
 		
-		driver.close();
+		//driver.close();
 
 	}
 
